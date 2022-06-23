@@ -31,7 +31,7 @@ board.addEventListener('click', (event) => {
   }
 });
 
-colorInput?.addEventListener('input', (event) => {
+colorInput.addEventListener('input', (event) => {
   color = colorInput.value;
 });
 
